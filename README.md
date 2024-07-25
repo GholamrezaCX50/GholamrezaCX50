@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Gholamreza Poloee
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Machine Learning (ML)
-- 📫 How to reach me : www.linkedin.com/in/hamed-poloee-64844424
