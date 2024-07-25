@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Gholamreza Poloee
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Machine Learning (ML)
+- 🌱 I’m currently Working on Machine Learning (ML)
